@@ -1,0 +1,14 @@
+{
+  "name": "js-native-methods",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vitest": "^0.12.6"
+  }
+}
